@@ -1,9 +1,1 @@
-title: Miles C. Coleman
-
-## Communication Instructor and Researcher
-
-`{digital} rhetoric` - `science, technology, and medicine` - `communication ethics`
-
-### Projects 
-
--[feels_bot](http://milesccoleman.com/feels_bot/) 
+[feels_bot](http://milesccoleman.com/feels_bot/) 
