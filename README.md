@@ -5,3 +5,5 @@
 -[sonification of periodic table of elements](http://milesccoleman.com/sonificationexample/)
 
 -[magical bots](http://milesccoleman.com/magicalcompulsions/)
+
+<p><iframe src="https://autocomm.gitbook.io/botcomm/" width="900" height="1200"></iframe></p>
