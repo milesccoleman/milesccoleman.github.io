@@ -4,4 +4,6 @@
 
 -[sonification of periodic table of elements](http://milesccoleman.com/sonificationexample/)
 
+-{what does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
+
 -[magical bots](http://milesccoleman.com/magicalcompulsions/)
