@@ -10,6 +10,10 @@
 
 <img src="background.png">
 
+-[rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
+
+-[rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
+
 -[feels_bot](http://milesccoleman.com/feels_botpage/) 
 
 -[sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
