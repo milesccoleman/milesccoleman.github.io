@@ -22,4 +22,4 @@
 
 -[magical bots](https://milesccoleman.com/magicalcompulsions/)
 
-<iframe src="https://autocomm.gitbook.io/botcomm/"></iframe>
+<iframe src="https://autocomm.gitbook.io/botcomm/" height="1000" width="1000"></iframe>
