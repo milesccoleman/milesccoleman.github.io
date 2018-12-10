@@ -21,3 +21,5 @@
 -[what does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
 
 -[magical bots](https://milesccoleman.com/magicalcompulsions/)
+
+<iframe src="https://autocomm.gitbook.io/botcomm/"></iframe>
