@@ -10,6 +10,8 @@
 
 <img src="background.png">
 
+-[sylla_bot](http://milesccoleman.com/sylla_bot/)
+
 -[rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
 
 -[rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
