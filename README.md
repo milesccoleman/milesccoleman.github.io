@@ -7,14 +7,20 @@
 
   gtag('config', 'UA-67390232-4');
 </script>
-
 <img src="background.png">
 
--[sylla_bot](http://milesccoleman.com/sylla_bot/)
+[Curriculum Vitae](http://milesccoleman.com/cv/)
 
+## Work in Progress
 -[rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
 
 -[rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
+
+-[magical bots](https://milesccoleman.com/magicalcompulsions/)
+
+## Completed Projects
+
+-[sylla_bot](http://milesccoleman.com/sylla_bot/)
 
 -[feels_bot](http://milesccoleman.com/feels_botpage/) 
 
@@ -22,5 +28,5 @@
 
 -[what does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
 
--[magical bots](https://milesccoleman.com/magicalcompulsions/)
+
 
