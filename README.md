@@ -9,24 +9,26 @@
 </script>
 <img src="background.png">
 
-[Curriculum Vitae](http://milesccoleman.com/cv/)
+[Curriculum vitae](http://milesccoleman.com/cv/)
 
 ## Work in Progress
--[rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
+-[Feelings dashboard](https://milesccoleman.com/feelingsdashboard/examples/clm_emotiondetection.html)
 
--[rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
+-[Rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
 
--[magical bots](https://milesccoleman.com/magicalcompulsions/)
+-[Rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
+
+-[Magical bots](https://milesccoleman.com/magicalcompulsions/)
 
 ## Completed Projects
 
--[sylla_bot](http://milesccoleman.com/sylla_bot/)
+-[Sylla_bot](http://milesccoleman.com/sylla_bot/)
 
--[feels_bot](http://milesccoleman.com/feels_botpage/) 
+-[Feels_bot](http://milesccoleman.com/feels_botpage/) 
 
--[sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
+-[Sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
 
--[what does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
+-[What does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
 
 
 
