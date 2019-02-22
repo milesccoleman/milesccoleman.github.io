@@ -18,7 +18,7 @@
 
 -[Rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
 
--[Magical bots](https://slides.com/milescoleman/the-magical-compulsions-of-ma-3/live#/)
+-[Magical bots](https://slides.com/milescoleman/the-magical-compulsions-of-ma-3)
 
 ## Completed Projects
 
