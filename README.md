@@ -12,7 +12,7 @@
 [Curriculum vitae](http://milesccoleman.com/cv/)
 
 ## Work in Progress
--[Feelings dashboard](https://milesccoleman.com/feelingsdashboard/examples/clm_emotiondetection.html)
+-[Feelings dashboard](https://milesccoleman.com/ideas/examples/clm_emotiondetection.html)
 
 -[Rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
 
