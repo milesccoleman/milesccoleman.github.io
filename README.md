@@ -9,7 +9,7 @@
 </script>
 <style>
   background-image: url("https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif"); 
-  repeat: none; 
+  background-repeat: none; 
 </style>
 <img src="background.png">
 
