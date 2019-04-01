@@ -17,7 +17,6 @@
   margin-top: -15%;
   }
   .main-content p {
-    position: fixed; 
   }
   
 </style>
