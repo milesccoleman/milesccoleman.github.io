@@ -11,6 +11,7 @@
   .main-content {
   background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif"); 
   background-repeat: repeat-x; 
+  background-size: auto;
 }
 </style>
 <img src="background.png">
