@@ -15,7 +15,12 @@
 }
 #title {
   margin-top: -15%;
+  position: absolute; 
   }
+  .main-content {
+    position: fixed; 
+  }
+  
 </style>
 <img id="title" src="background.png">
 
