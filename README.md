@@ -14,7 +14,7 @@
   background-size: 100%;
 }
 #title {
-  margin-top: -10%;
+  margin-top: -15%;
   }
 </style>
 <img id="title" src="background.png">
