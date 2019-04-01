@@ -9,8 +9,8 @@
 </script>
 <style>
   body {
-  background-image: url("https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif"); 
-  background-repeat: none; 
+  background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif"); 
+  background-repeat: reapeat-x; 
 }
 </style>
 <img src="background.png">
