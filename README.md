@@ -10,7 +10,7 @@
 <style>
   body {
   background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif"); 
-  background-repeat: reapeat-x; 
+  background-repeat: repeat-x; 
 }
 </style>
 <img src="background.png">
