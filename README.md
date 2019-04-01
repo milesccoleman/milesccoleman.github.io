@@ -8,8 +8,10 @@
   gtag('config', 'UA-67390232-4');
 </script>
 <style>
+  body {
   background-image: url("https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif"); 
   background-repeat: none; 
+}
 </style>
 <img src="background.png">
 
