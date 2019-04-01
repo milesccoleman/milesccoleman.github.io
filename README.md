@@ -13,8 +13,11 @@
   background-repeat: repeat-x; 
   background-size: 100%;
 }
+#title {
+  margin-top: -10%;
+  }
 </style>
-<img src="background.png">
+<img id="title" src="background.png">
 
 [Curriculum vitae](http://milesccoleman.com/cv/)
 
