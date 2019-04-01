@@ -8,7 +8,7 @@
   gtag('config', 'UA-67390232-4');
 </script>
 <style>
-  .main-content {
+  .page-header {
   background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif"); 
   background-repeat: repeat-x; 
   background-size: 100%;
