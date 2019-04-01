@@ -15,7 +15,6 @@
 }
 #title {
   margin-top: -15%;
-  position: absolute; 
   }
   .main-content {
     position: fixed; 
