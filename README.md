@@ -9,7 +9,6 @@
 </script>
 <style>
   html {
-  background-image: url("background.png"); 
   background-repeat: no-repeat; 
   }
   .page-header {
@@ -18,6 +17,7 @@
 }
 #title {
   margin-top: -35%;
+  background-image: url("background.png"); 
   }
   .main-content p {
   background-color: black; 
