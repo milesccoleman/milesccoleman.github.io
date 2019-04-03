@@ -16,7 +16,6 @@
   background-repeat: repeat-x; 
 }
 #title {
-  margin-top: -35%;
   background-image: url("background.png"); 
   }
   .main-content p {
