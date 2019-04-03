@@ -8,6 +8,9 @@
   gtag('config', 'UA-67390232-4');
 </script>
 <style>
+  html {
+  background-image: url("background.png"); 
+  }
   .page-header {
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
@@ -16,6 +19,7 @@
   margin-top: -35%;
   }
   .main-content p {
+  background-color: black; 
   }
   
 </style>
