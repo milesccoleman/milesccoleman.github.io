@@ -18,6 +18,7 @@
 body {
   background-image: url("background.png"); 
   background-repeat: no-repeat; 
+  z-index: 1; 
   }
   .main-content p {
   background-color: black; 
