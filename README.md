@@ -14,11 +14,9 @@
   .page-header {
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
-  z-index: 1; 
 }
   body { 
   background-repeat: no-repeat; 
-  z-index: 2; 
   }
   .main-content p {
   background-color: black; 
