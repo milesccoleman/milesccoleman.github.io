@@ -23,7 +23,15 @@
 
 [Curriculum vitae](http://milesccoleman.com/cv/)
 
-## Work in Progress
+
+## Projects
+
+-[Sylla_bot](http://milesccoleman.com/sylla_bot/)
+
+-[Feels_bot](http://milesccoleman.com/feels_botpage/) 
+
+-[Sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
+
 -[Feelings dashboard](https://milesccoleman.com/ideas/examples/clm_emotiondetection.html)
 
 -[Rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
@@ -32,15 +40,7 @@
 
 -[Magical bots](https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/)
 
-## Completed Projects
 
--[Sylla_bot](http://milesccoleman.com/sylla_bot/)
-
--[Feels_bot](http://milesccoleman.com/feels_botpage/) 
-
--[Sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
-
--[What does food sound like?](https://milesccoleman.com/whatdoesfoodsoundlike/)
 
 
 
