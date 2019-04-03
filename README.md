@@ -27,7 +27,7 @@
  }
  
  #content {
-  position: fixed; 
+  position: absolute; 
 }
   
 </style>
