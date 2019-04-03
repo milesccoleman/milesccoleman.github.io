@@ -18,6 +18,12 @@
   body { 
   background-repeat: no-repeat; 
   }
+  .project-name {
+   visibility: hidden; 
+  }
+   .project-tagline {
+   visibility: hidden; 
+  }
   .main-content p {
   }
   #title {
