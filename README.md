@@ -16,8 +16,7 @@
   background-repeat: repeat-x; 
   z-index: 1; 
 }
-  body {
-  background-image: url("background.png"); 
+  body { 
   background-repeat: no-repeat; 
   z-index: 2; 
   }
@@ -26,6 +25,10 @@
   color: #00e6e6; 
   width: 25%; 
   }
+  #title {
+    margin-top: -35%; 
+    background-image: url("background.png");
+ }
   
 </style>
 <img id="title" src="background.png">
