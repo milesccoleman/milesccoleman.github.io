@@ -21,7 +21,7 @@
   }
   .main-content p {
   background-color: black; 
-  color: white; 
+  color: #00e6e6; 
   width: 25%; 
   }
   
