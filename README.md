@@ -30,7 +30,9 @@
  #content {
   position: absolute; 
 }
-  
+  .site-footer {
+  visibility: hidden; 
+  }
 </style>
 <img id="title" src="background.png">
 
