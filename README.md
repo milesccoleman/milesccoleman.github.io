@@ -11,7 +11,6 @@
   .page-header {
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
-  background-size: 100%;
 }
 #title {
   margin-top: -35%;
