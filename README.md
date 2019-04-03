@@ -27,8 +27,8 @@
  }
  
  #content {
- float: left; 
- }
+  position: fixed; 
+}
   
 </style>
 <img id="title" src="background.png">
