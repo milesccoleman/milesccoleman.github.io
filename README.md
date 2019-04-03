@@ -34,23 +34,25 @@
 <img id="title" src="background.png">
 
 <div id="content">
-  <a src="http://milesccoleman.com/cv/">Curriculum vitae</a>
+  
+  <h2><a src="http://milesccoleman.com/cv/">Curriculum vitae</a></h2>
 
 <h2>Projects</h2>
 
-<a src="http://milesccoleman.com/sylla_bot/">Sylla bot</a>
+<a src="http://milesccoleman.com/sylla_bot/">- Sylla bot</a>
 
--[Feels_bot](http://milesccoleman.com/feels_botpage/) 
+<a src="http://milesccoleman.com/feels_botpage/">- Feels bot</a>
 
--[Sonification of periodic table of elements](https://milesccoleman.com/sonificationexample/)
+<a src="https://milesccoleman.com/sonificationexample/">- Sonification of the periodic table of elements</a>
 
--[Feelings dashboard](https://milesccoleman.com/ideas/examples/clm_emotiondetection.html)
+<a src="https://milesccoleman.com/ideas/examples/clm_emotiondetection.html">- Feelings dashboard</a>
 
--[Rhetoric, ethics, and public vaccine science](https://slides.com/milescoleman/deck/fullscreen)
+<a src="https://slides.com/milescoleman/deck/fullscreen">- Rhetoric, ethics, and public vaccine science</a>
 
--[Rhetoric of science](https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen)
+<a src="https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen">- Rhetoric of science</a>
 
--[Magical bots](https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/)
+<a src="https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/">- Magical bots</a>
+
 
 </div>
 
