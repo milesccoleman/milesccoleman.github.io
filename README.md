@@ -34,12 +34,11 @@
 <img id="title" src="background.png">
 
 <div id="content">
-[Curriculum vitae](http://milesccoleman.com/cv/)
+  <a src="http://milesccoleman.com/cv/">Curriculum vitae</a>
 
+<h2>Projects</h2>
 
-## Projects
-
--[Sylla_bot](http://milesccoleman.com/sylla_bot/)
+<a src="http://milesccoleman.com/sylla_bot/">Sylla bot</a>
 
 -[Feels_bot](http://milesccoleman.com/feels_botpage/) 
 
