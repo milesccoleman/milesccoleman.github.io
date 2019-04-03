@@ -19,9 +19,6 @@
   background-repeat: no-repeat; 
   }
   .main-content p {
-  background-color: black; 
-  color: #00e6e6; 
-  width: 25%; 
   }
   #title {
     margin-top: -35%; 
