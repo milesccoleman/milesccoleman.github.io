@@ -15,7 +15,7 @@
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
 }
-#title {
+body {
   background-image: url("background.png"); 
   }
   .main-content p {
