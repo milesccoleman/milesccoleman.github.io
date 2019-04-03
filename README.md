@@ -33,9 +33,6 @@
  }
  
  #content {
- position: absolute; 
- margin-left: 10px; 
- margin-top: 100px; 
 }
   .site-footer {
   visibility: hidden; 
