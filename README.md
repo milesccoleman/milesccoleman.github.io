@@ -14,6 +14,7 @@
   .page-header {
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
+  position: fixed; 
 }
   body { 
   background-repeat: no-repeat; 
@@ -34,7 +35,6 @@
  }
  
  #content {
-  position: absolute; 
 }
   .site-footer {
   visibility: hidden; 
