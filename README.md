@@ -17,6 +17,7 @@
 }
 body {
   background-image: url("background.png"); 
+  background-repeat: no-repeat; 
   }
   .main-content p {
   background-color: black; 
