@@ -10,6 +10,7 @@
 <style>
   html {
   background-image: url("background.png"); 
+  background-repeat: no-repeat; 
   }
   .page-header {
   background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
@@ -20,6 +21,8 @@
   }
   .main-content p {
   background-color: black; 
+  color: white; 
+  width: 25%; 
   }
   
 </style>
