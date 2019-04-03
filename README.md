@@ -31,7 +31,7 @@
     margin-top: -50%; 
     background-image: url("background.png");
     width: 100%; 
-    z-index: 2; 
+    position: fixed;   
  }
  
  #content {
