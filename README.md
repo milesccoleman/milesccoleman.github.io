@@ -26,6 +26,7 @@
   #title {
     margin-top: -35%; 
     background-image: url("background.png");
+    width: 100%; 
  }
   
 </style>
