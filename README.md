@@ -25,10 +25,15 @@
     background-image: url("background.png");
     width: 100%; 
  }
+ 
+ #content {
+ float: left; 
+ }
   
 </style>
 <img id="title" src="background.png">
 
+<div id="content">
 [Curriculum vitae](http://milesccoleman.com/cv/)
 
 
@@ -48,7 +53,7 @@
 
 -[Magical bots](https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/)
 
-
+</div>
 
 
 
