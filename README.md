@@ -38,35 +38,39 @@
   <h2><a src="http://milesccoleman.com/cv/">Curriculum vitae</a></h2>
 
 <h2>Projects</h2>
-
-<br>
-
 <a src="http://milesccoleman.com/sylla_bot/">- Sylla bot</a>
 
+<br>
 <br>
 
 <a src="http://milesccoleman.com/feels_botpage/">- Feels bot</a>
 
 <br>
+<br>
 
 <a src="https://milesccoleman.com/sonificationexample/">- Sonification of the periodic table of elements</a>
 
+<br>
 <br>
 
 <a src="https://milesccoleman.com/ideas/examples/clm_emotiondetection.html">- Feelings dashboard</a>
 
 <br>
+<br>
 
 <a src="https://slides.com/milescoleman/deck/fullscreen">- Rhetoric, ethics, and public vaccine science</a>
 
+<br>
 <br>
 
 <a src="https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen">- Rhetoric of science</a>
 
 <br>
+<br>
 
 <a src="https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/">- Magical bots</a>
 
+<br>
 <br>
 
 </div>
