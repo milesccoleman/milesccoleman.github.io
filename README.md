@@ -9,12 +9,12 @@
 </script>
 <style>
   .page-header {
-  background-image: url("https://media.giphy.com/media/3ov9k1173PdfJWRsoE/giphy.gif"); 
+  background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
   background-repeat: repeat-x; 
   background-size: 100%;
 }
 #title {
-  margin-top: -15%;
+  margin-top: -35%;
   }
   .main-content p {
   }
