@@ -17,7 +17,7 @@
 #content  {
   background-color:rgba(255, 255, 255, 0.8); 
   border-radius: 15px;  
-  margin-top: 100px; 
+  margin-top: 150px; 
   margin-left: -23%; 
   }
   .main-content {
