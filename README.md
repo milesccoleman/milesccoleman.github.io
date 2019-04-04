@@ -23,13 +23,14 @@
    .project-tagline {
    visibility: hidden; 
   }
-  .main-content p {
-  }
-  #title {
-    margin-top: -50%; 
+  .main-content {
+     margin-top: -50%; 
     background-image: url("background.png");
     width: 100%; 
     background-attachment: fixed;
+  }
+  #title {
+
  }
  
  #content {
