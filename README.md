@@ -11,7 +11,7 @@
 .page-header {
   }
 #content  {
-  background-color:rgba(255,255,0,0.3);
+  background-color:rgba(66, 244, 66, 0.3); 
   border-radius: 15px;  
   }
   .main-content {
