@@ -23,6 +23,7 @@
     background-repeat: no-repeat; 
     background-attachment: fixed;
     width: 200%;  
+    margin-left: 30%; 
   }
   .site-footer {
   visibility: hidden; 
