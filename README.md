@@ -12,7 +12,7 @@
   height: 200px; 
   }
   .project-name {
-  margin-top: -50px; 
+  margin-top: -70px; 
   }
 #content  {
   background-color:rgba(255, 255, 255, 0.8); 
