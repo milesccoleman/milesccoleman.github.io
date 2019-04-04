@@ -11,13 +11,8 @@
   html {
   background-repeat: no-repeat; 
   }
-  .page-header {
-}
-  body { 
- }
-  .project-name {
-  }
-   .project-tagline {
+.main-content p {
+  background-color: white; 
   }
   .main-content {
     background-image: url("background.png");
