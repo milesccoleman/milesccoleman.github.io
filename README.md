@@ -16,13 +16,11 @@
   border-radius: 15px;  
   margin-top: 150px; 
   margin-left: -25%; 
-  width: 200%; 
   }
   .main-content {
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
-    width: 200%;  
   }
   .site-footer {
   visibility: hidden; 
