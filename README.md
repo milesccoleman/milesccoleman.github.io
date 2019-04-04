@@ -16,8 +16,8 @@
   background-repeat: repeat-x; 
 }
   body { 
-  background-repeat: no-repeat; 
-  }
+ background-attachment: fixed;
+ }
   .project-name {
    visibility: hidden; 
   }
