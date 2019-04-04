@@ -31,7 +31,7 @@
   
   <h2><a href="http://milesccoleman.com/cv/">Curriculum vitae</a></h2>
 
-<h1>Some Projects</h1>
+<h1>Projects</h1>
 <a href="http://milesccoleman.com/sylla_bot/">- Sylla bot</a>
 
 <br>
