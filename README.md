@@ -9,7 +9,7 @@
 </script>
 <style>
 .page-header {
-  rgba(0, 0, 0, 0)
+  background-color: rgba(0, 0, 0, 0); 
   }
 #content  {
   background-color:rgba(0, 0, 0, 0.8); 
