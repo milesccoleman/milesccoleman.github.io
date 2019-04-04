@@ -14,6 +14,7 @@
 #content  {
   background-color: rgba(0,0,0,.5);
   border-radius: 15px; 
+  float: right; 
   }
   .main-content {
     background-image: url("background.png");
