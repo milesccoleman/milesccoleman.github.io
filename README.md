@@ -15,7 +15,7 @@
   background-color:rgba(255, 255, 255, 0.8); 
   border-radius: 15px;  
   margin-top: 150px; 
-  margin-left: -100px; 
+  margin-left: -25%; 
   width: 200%; 
   }
   .main-content {
