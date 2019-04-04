@@ -11,8 +11,9 @@
   html {
   background-repeat: no-repeat; 
   }
-.main-content p {
-  background-color: white; 
+.content  {
+  background-color: rgba(0,0,0,.5);
+  border-radius: 15px; 
   }
   .main-content {
     background-image: url("background.png");
