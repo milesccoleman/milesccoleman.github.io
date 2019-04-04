@@ -12,8 +12,6 @@
   background-repeat: no-repeat; 
   }
   .page-header {
-  background-image: url("https://media.giphy.com/media/l3vRcrVqhBVSpJte0/giphy.gif"); 
-  background-repeat: repeat-x; 
 }
   body { 
  }
@@ -27,6 +25,7 @@
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
+    width: 150%; 
   }
   #title {
 
