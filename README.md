@@ -15,13 +15,12 @@
   background-color:rgba(255, 255, 255, 0.8); 
   border-radius: 15px;  
   margin-top: 150px; 
-  margin-left: -25%; 
+  margin-left: -23%; 
   }
   .main-content {
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
-    margin-right: 100px; 
   }
   .site-footer {
   visibility: hidden; 
