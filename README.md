@@ -26,6 +26,7 @@
   .main-content {
      margin-top: -50%; 
     background-image: url("background.png");
+    background-repeat: no-repeat; 
     width: 100%; 
     background-attachment: fixed;
   }
@@ -39,7 +40,6 @@
   visibility: hidden; 
   }
 </style>
-<img id="title" src="background.png">
 
 <div id="content">
   
