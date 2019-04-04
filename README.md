@@ -8,10 +8,10 @@
   gtag('config', 'UA-67390232-4');
 </script>
 <style>
-  html {
-  background-repeat: no-repeat; 
+.page-header {
+  opacity: 0.5;
   }
-.content  {
+#content  {
   background-color: rgba(0,0,0,.5);
   border-radius: 15px; 
   }
@@ -21,12 +21,6 @@
     background-attachment: fixed;
     width: 150%; 
   }
-  #title {
-
- }
- 
- #content {
-}
   .site-footer {
   visibility: hidden; 
   }
