@@ -13,6 +13,7 @@
 #content  {
   background-color:rgba(66, 244, 66, 0.3); 
   border-radius: 15px;  
+  margin-top: 150px; 
   }
   .main-content {
     background-image: url("background.png");
