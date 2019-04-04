@@ -9,6 +9,7 @@
 </script>
 <style>
 .page-header {
+  visibility: hidden; 
   }
 #content  {
   background-color:rgba(66, 244, 66, 0.6); 
