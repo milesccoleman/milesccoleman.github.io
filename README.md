@@ -16,10 +16,8 @@
   body { 
  }
   .project-name {
-   visibility: hidden; 
   }
    .project-tagline {
-   visibility: hidden; 
   }
   .main-content {
     background-image: url("background.png");
