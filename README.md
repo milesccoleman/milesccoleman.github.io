@@ -12,7 +12,7 @@
   visibility: hidden; 
   }
 #content  {
-  background-color:rgba(66, 244, 66, 0.6); 
+  background-color:rgba(66, 244, 66, 0.8); 
   border-radius: 15px;  
   margin-top: 150px; 
   }
