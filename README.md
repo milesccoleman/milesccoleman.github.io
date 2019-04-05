@@ -18,12 +18,13 @@
   border-radius: 15px;  
   margin-top: auto; 
   margin-left: auto; 
+  width: auto; 
   }
   .main-content {
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
-    width: auto;  
+     
   }
   .site-footer {
   visibility: hidden; 
