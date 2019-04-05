@@ -10,6 +10,7 @@
 <style>
 .page-header {
   height: 250px; 
+  padding-top: -70px; 
   }
   .project-name {
   margin-top: auto; 
