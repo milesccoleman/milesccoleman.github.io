@@ -20,7 +20,7 @@
   margin-left: auto; 
   width: auto; 
   }
-  .main-content {
+  html {
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
