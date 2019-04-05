@@ -25,6 +25,7 @@
     background-repeat: no-repeat; 
     background-attachment: fixed;
     background-size: 100%;
+  background-position: background-position: center; 
      
   }
   .site-footer {
