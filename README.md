@@ -12,13 +12,13 @@
   height: 175px; 
   }
   .project-name {
-  margin-top: -70px; 
+  margin-top: auto; 
   }
 #content  {
   background-color:rgba(255, 255, 255, 0.8); 
   border-radius: 15px;  
-  margin-top: 175px; 
-  margin-left: -23%; 
+  margin-top: auto; 
+  margin-left: auto; 
   }
   .main-content {
     background-image: url("background.png");
