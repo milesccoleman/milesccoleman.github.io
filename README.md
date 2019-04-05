@@ -24,6 +24,7 @@
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
+  margin: auto; 
      
   }
   .site-footer {
