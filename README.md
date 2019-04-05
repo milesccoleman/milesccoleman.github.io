@@ -24,7 +24,7 @@
     background-image: url("background.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: 50%;
   background-position: background-position: center; 
      
   }
