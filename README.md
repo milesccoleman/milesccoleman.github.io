@@ -9,7 +9,7 @@
 </script>
 <style>
 .page-header {
-  height: 250px; 
+  height: 175px; 
   }
   .project-name {
   margin-top: auto; 
