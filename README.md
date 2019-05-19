@@ -44,11 +44,6 @@
 <br>
 <br>
 
-<a href="http://milesccoleman.com/feels_botpage/">- Feels bot</a>
-
-<br>
-<br>
-
 <a href="https://milesccoleman.com/sonificationexample/">- Sonification of the periodic table of elements</a>
 
 <br>
