@@ -54,7 +54,7 @@
 <br>
 <br>
 
-<a href="https://slides.com/milescoleman/deck/fullscreen">- Rhetoric, ethics, and public vaccine science</a>
+<a href="https://slides.com/milescoleman/deck-4">- Rhetoric, ethics, and public vaccine science</a>
 
 <br>
 <br>
