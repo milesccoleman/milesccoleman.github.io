@@ -38,7 +38,7 @@
   
   <h2><a href="http://milesccoleman.com/cv/">Curriculum vitae</a></h2>
 
-<h1>Projects</h1>
+<h1>Other Projects</h1>
 <a href="http://milesccoleman.com/sylla_bot/">- Sylla bot</a>
 
 <br>
@@ -54,20 +54,6 @@
 <br>
 <br>
 
-<a href="https://slides.com/milescoleman/deck-4">- Rhetoric, ethics, and public vaccine science</a>
-
-<br>
-<br>
-
-<a href="https://slides.com/milescoleman/rhetoric-of-science-2/fullscreen">- Rhetoric of science</a>
-
-<br>
-<br>
-
-<a href="https://slides.com/milescoleman/the-magical-compulsions-of-ma-3#/">- Magical bots</a>
-
-<br>
-<br>
 
 </div>
 
