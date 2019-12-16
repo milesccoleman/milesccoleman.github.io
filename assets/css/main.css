@@ -102,7 +102,7 @@ input, select, textarea {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
-		line-height: 0;
+		line-height: 12em;
 	}
 
 	a {
@@ -110,7 +110,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: none;
+		border-bottom-color: transparent;
 		color: none;
 		text-decoration: none;
 	}
