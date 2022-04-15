@@ -39,6 +39,7 @@ font-size: 11px;
 color: white; 
 margin-top: -20%; 
 width: 75%; 
+z-index: 9;
 }
 img:hover + #attribution {
 visibility:visible; 
