@@ -33,12 +33,12 @@ body {
 	line-height: 1;
 }
 #attribution {
-display:none; 
+visibility:hidden; 
 background-color: teal; 
 font-size: 14px; 
 }
 img:hover + #attribution {
-display:block; 
+visibility:visible; 
 }
 
 
