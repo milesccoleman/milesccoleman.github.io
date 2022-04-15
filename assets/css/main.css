@@ -35,7 +35,7 @@ body {
 #attribution {
 visibility:hidden; 
 background-color: teal; 
-font-size: 14px; 
+font-size: 7px; 
 }
 img:hover + #attribution {
 visibility:visible; 
