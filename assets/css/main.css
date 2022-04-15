@@ -35,7 +35,7 @@ body {
 #attribution {
 display:none; 
 }
-span:hover + #attribution {
+img:hover + #attribution {
 display:block; 
 }
 
