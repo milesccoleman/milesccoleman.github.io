@@ -32,12 +32,10 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-#attribution {
-visibility: hidden; 
+span:hover + #attribution {
+display:block; 
 }
-#attribution:hover {
-visibility: visible; 
-}
+
 
 ol, ul {
 	list-style: none;
