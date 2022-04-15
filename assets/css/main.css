@@ -35,6 +35,7 @@ body {
 #attribution {
 display:none; 
 background-color: teal; 
+font-size: 14px; 
 }
 img:hover + #attribution {
 display:block; 
