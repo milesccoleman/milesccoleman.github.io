@@ -32,7 +32,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-#attribution {
+.attribution {
 visibility: hidden; 
 }
 #attribution:hover {
