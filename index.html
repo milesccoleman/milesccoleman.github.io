@@ -53,9 +53,30 @@ Graph representing the metadata of thousands of archive documents, documenting t
 				<ul class="copyright">
 					<li>&copy; Miles C. Coleman</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 				</ul>
+				<button id ="nineties" class="icon solid fa-egg" id= "nineties" onclick="nineties()">Toggle '90s View</button>
 			</section>
 
 		<!-- Scripts -->
+						<script>
+        function nineties() {
+            // Obtains an array of all <link>
+            // elements.
+            // Select your element using indexing.
+            var theme = document.getElementsByTagName('link')[0];
+            var button = document.getElementById('nineties'); 
+  
+            // Change the value of href attribute 
+            // to change the css sheet.
+            if (theme.getAttribute('href') == "assets/css/main.css") {
+                theme.setAttribute('href', "https://code.divshot.com/geo-bootstrap/swatch/bootstrap.min.css");
+                button.innerText = "Toggle Modern View"
+                
+            } else {
+                theme.setAttribute('href', "assets/css/main.css");
+                button.innerText = "Toggle '90s View"
+            }
+        }
+    </script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrolly.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
@@ -65,3 +86,11 @@ Graph representing the metadata of thousands of archive documents, documenting t
 
 	</body>
 </html>
+
+<style>
+#nineties {
+background-color: purple; 
+margin: auto;
+
+}
+</style>
