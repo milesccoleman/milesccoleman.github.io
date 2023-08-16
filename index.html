@@ -28,19 +28,16 @@
 		<!-- One -->
 			<section id="one" class="main style1">
 				<div class="container">
-					<div class="row gtr-150">
-						<div class="col-6 col-12-medium">
+					
 							<header class="major">
-								<h3>Assistant Professor</h3>
+								<h2>Assistant Professor</h2>
 								<h2>Communication Studies</h2>
 								<h2>Rowan University</h2>
 							</header>
-							<p>Miles is a communication instructor and researcher, specializing in rhetoric of science, technology, and medicine, digital rhetoric, and communication ethics.  
-						</div>
+							<p id="description">Miles is a communication instructor and researcher, specializing in rhetoric of science, technology, and medicine, digital rhetoric, and communication ethics.  
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="fa-regular fa-diagram-project"></span>
 						</div>
-					</div>
 					<div id="cv">Recent Publications     
 						<button id="viewButton" class="hideyButton" onclick="unhideCV()">View</button> 
 							<div hidden id="cvcontent">
@@ -51,7 +48,7 @@
 								<button class="hideyButton" onclick="hideCV()">Close</button>
 							</div>
 					</div>
-					<div id="projects">Recent Projects     
+					<div id="projects">Recent Applications     
 					<button id="viewButton2" class="hideyButton" onclick="unhideProjects()">View</button> 
 						<div hidden id="projectcontent">
 							<br>
@@ -60,6 +57,7 @@
 							<button class="hideyButton" onclick="hideProjects()">Close</button>
 						</div>
 					</div>
+				</div>
 			</section>
 		<!-- Footer -->
 			<section id="footer">
@@ -117,6 +115,16 @@
 </html>
 
 <style>
+
+#header {
+text-align: center; 
+}
+#footer {
+text-align: center; 
+}
+#one {
+text-align: center; 
+}
 #projects {
 border-radius: 25px;
 background-color: #325ACE;
@@ -126,21 +134,29 @@ font-size: 35px;
 padding: 35px;
 margin-top: 15px;
 line-height: 35px; 
+margin-bottom: 10px; 
 }
 .projectitem {
 border: solid; 
 border-color: white; 
   border-radius: 25px;
   padding: 20px; 
-  width: 90%;
   font-size: 30px; 
   text-align: left; 
   line-height: 30px; 
-  width: 150px; 
+	display: block; 
+	margin: auto;
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+	text-align: center; 
+	width: 90%; 
+
+
 }
 #cvcontent a {
 color: #325ACE; 
 font-weight: bold; 
+display: inline; 
 }
 #cvcontent a:hover {
 color: lightgray; 
@@ -162,18 +178,18 @@ font-weight: bold;
 color: lightgray; 
 }
 
-#network {
-filter: sepia(0%) hue-rotate(190deg) saturate(500%);
-width: 20px; height: 337px; 
-object-fit: none;
-object-position: -81px;
-}
+
 .hideyButton {
-font-size: 10px;
-background-color: white; 
+font-size: 15px;
+color: white !important;
+background-color: rgba(0,0,0,0.4); 
 }
 .hideyButton:hover {
-background-color: hotpink; 
+}
+
+#viewButton {
+color: red; 
+border-color: white; 
 }
 .cvcontent{
 text-align: left
@@ -182,11 +198,14 @@ text-align: left
 border: solid; 
 border-color: white; 
   border-radius: 25px;
-  padding: 20px; 
+  padding: 10px; 
   width: 90%;
   font-size: 30px; 
   text-align: left; 
     line-height: 30px; 
+    margin-left: 5%;
+    margin-bottom: 10px; 
+    margin-top: 10px;
 
 }
 #cv {
@@ -206,8 +225,15 @@ position: relative;
 background-color: hotpink; 
 margin: auto;
 font-size: 10px;
+margin-top: 10px; 
 }
 #network {
-width: 500px; 
+}
+#description {
+font-size: 20px; 
+line-height: 20px;
+}
+.container {
+width: 100%; 
 }
 </style>
