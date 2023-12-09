@@ -30,6 +30,7 @@
 				<div class="container">
 					
 							<header id ="titles" class="major">
+							<img width="100" class="funView" src="https://media.giphy.com/media/xDx3On9dbXXS8/giphy.gif">
 								<h2>Associate Professor</h2>
 								<h2>Communication Studies</h2>
 								<h2>Rowan University</h2>
@@ -38,7 +39,8 @@
 						<div class="col-6 col-12-medium imp-medium">
 							<span class="fa-regular fa-diagram-project"></span>
 						</div>
-					<div id="cv">Recent Publications     
+						<img width="100" class="funView" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXc4Y2lnMmd2b2lqYzNocXU0OHA5cGFzYjZ5aWhqaDlsN241MWM0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C16fXLGyiokEZjQ8NS/giphy.gif"> 
+					<div id="cv">Recent Publications    
 						<button id="viewButton" class="hideyButton" onclick="unhideCV()">View</button> 
 							<div hidden id="cvcontent">
 								<br>
@@ -48,20 +50,24 @@
 								<button class="hideyButton" onclick="hideCV()">Close</button>
 							</div>
 					</div>
+					<img width="100" class="funView" src="https://media.giphy.com/media/j5VFIEwc5wEOM7WHDu/giphy.gif">
 					<div id="projects">Recent Applications     
 					<button id="viewButton2" class="hideyButton" onclick="unhideProjects()">View</button> 
 						<div hidden id="projectcontent">
 							<br>
 							<p class="projectitem"><a href="https://soundsofhumanimpact.github.io/byrdbot">ByrdBot</a></p>
+							<p class="projectitem"><a href="https://psdb.netlify.app">Public Speaking Dashboard</a></p>
+							<p class="projectitem"><a href="https://imagine-science.netlify.app">Imagine Science</a></p>
 							<button class="hideyButton" onclick="hideProjects()">Close</button>
 						</div>
 					</div>
 				</div>
 			</section>
+			<img width="100" class="funView" src="https://media.giphy.com/media/p2sjYFtiXA4Zq/giphy.gif">
 		<!-- Footer -->
 			<section id="footer">
 				<ul class="copyright">
-					<li>&copy; Miles C. Coleman  <a href="mailto:colemanm@rowan.edu" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a> and <a href="https://code.divshot.com/geo-bootstrap/">GEO</a></li>
+					<li>&copy; Miles C. Coleman  <a href="mailto:colemanm@rowan.edu" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a> and <a href="https://code.divshot.com/geo-bootstrap/">GEO</a></li><img width="100" class="funView" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJsOTc5M2N5bW95c2drb3htMHd4NmpzZXEzM2VwcHRlNmtzbnBlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/lTYbbESdskM9qPzaZF/giphy.gif">
 				</ul>
 				<button id ="nineties" id= "nineties" onclick="nineties()">See Page in '90s View</button>
 			</section>
@@ -90,16 +96,26 @@
             // Select your element using indexing.
             var theme = document.getElementsByTagName('link')[0];
             var button = document.getElementById('nineties'); 
+            var divsToHide = document.getElementsByClassName("funView"); //divsToHide is an array
+    			
   
             // Change the value of href attribute 
             // to change the css sheet.
             if (theme.getAttribute('href') == "assets/css/main.css") {
                 theme.setAttribute('href', "https://code.divshot.com/geo-bootstrap/swatch/bootstrap.min.css");
                 button.innerText = "Go Back to Modern View"
+                for(var i = 0; i < divsToHide.length; i++){
+       				divsToHide[i].style.display = "block"; // or
+           		}
+                 
                 
             } else {
                 theme.setAttribute('href', "assets/css/main.css");
                 button.innerText = "See Page in '90s View"
+                
+    			for(var i = 0; i < divsToHide.length; i++){
+       				divsToHide[i].style.display = "none"; // or
+    			}
             }
         }
     </script>
@@ -114,7 +130,16 @@
 </html>
 
 <style>
+ul {
+list-style: none;
+}
+img {
+margin: auto; 
 
+}
+.funView {
+display: none; 
+}
 #header {
 text-align: center; 
 }
