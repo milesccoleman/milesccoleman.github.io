@@ -1,0 +1,156 @@
+<!DOCTYPE HTML>
+<!--
+	Photon by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Miles C. Coleman</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header">
+				<div class="inner">
+					<h1>Miles C. Coleman</h1>
+					<ul class="actions special">
+						<li><a href="https://milesccoleman.com/cv/" class="button scrolly">CV</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- One -->
+			<section id="one" class="main style1">
+				<div class="container">
+					
+							<header id ="titles" class="major">
+								<h2>Associate Professor</h2>
+								<h2>Communication Studies</h2>
+								<h2>Rowan University</h2>
+							</header>
+							<p id="description">Miles is a communication instructor and researcher, specializing in rhetoric of science, technology, and medicine, digital rhetoric, and communication ethics.  
+						<div class="col-6 col-12-medium imp-medium">
+							<span class="fa-regular fa-diagram-project"></span>
+						</div>
+					<div id="cv">Recent Publications    
+						<button id="viewButton" class="hideyButton" onclick="unhideCV()">View</button> 
+							<div hidden id="cvcontent">
+								<br>
+								<p class="cvitem">Miles C. Coleman, <i><a href="https://uscpress.com/Influential-Machines">Influential Machines: The Rhetoric of Computational Performance</a></i> (University of South Carolina Press, 2023).</p>
+								<p class="cvitem">Miles C. Coleman and Will Mari, "<a href="https://doi.org/10.1177/20501579221148427">Networks in Motion: The Alliances of Information Communication Technologies and Mobility Technologies During the 1918 Influenza Pandemic</a>," <i>Mobile Media & Communication</i> 11, no. 2 (2023): 156-173.</p>
+								<p class="cvitem">Miles C. Coleman, Brandon Simon, Matthew Pierce, and Charles Schutte, "<a href="https://doi.org/10.1177/10755470231165941">Emergent Sonification: Using Computational Media to Communicate the Anthropocene in ByrdBot</a>," <i>Science Communication</i> 45, no. 2 (2023): 252-256.</p>
+								<button class="hideyButton" onclick="hideCV()">Close</button>
+							</div>
+					</div>
+				</div>
+			</section>
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="copyright">
+					<li>&copy; Miles C. Coleman  <a href="mailto:colemanm@rowan.edu" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li><li>Design: <a href="http://html5up.net">HTML5 UP</a> and <a href="https://code.divshot.com/geo-bootstrap/">GEO</a>
+				</ul>
+			</section>
+
+		<!-- Scripts -->
+						<script>
+		function unhideCV(){
+		document.getElementById('viewButton').style.display = "none";
+		document.getElementById('cvcontent').hidden = false
+		}
+		function hideCV(){
+		document.getElementById('cvcontent').hidden = true
+		document.getElementById('viewButton').style.display = "inline";
+		}
+    </script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+<style>
+ul {
+list-style: none;
+}
+#header {
+text-align: center; 
+}
+#footer {
+text-align: center; 
+}
+#one {
+text-align: center; 
+}
+#cvcontent a {
+color: #325ACE; 
+font-weight: bold; 
+display: inline; 
+}
+#cvcontent a:hover {
+color: lightgray; 
+}
+#cvcontent a {
+color: #123BD0; 
+font-weight: bold; 
+}
+#cvcontent a:hover {
+color: lightgray; 
+}
+.hideyButton {
+font-size: 15px;
+color: white !important;
+background-color: rgba(0,0,0,0.4); 
+}
+.hideyButton:hover {
+}
+#viewButton {
+color: red; 
+border-color: white; 
+}
+.cvcontent{
+text-align: left
+}
+.cvitem {
+border: solid; 
+border-color: white; 
+  border-radius: 25px;
+  padding: 10px; 
+  width: 90%;
+  font-size: 30px; 
+  text-align: left; 
+    line-height: 30px; 
+    margin-left: 5%;
+    margin-bottom: 10px; 
+    margin-top: 10px;
+
+}
+#cv {
+border-radius: 25px;
+background-color: #0ac99c;
+color: white;
+text-align: center;
+font-size: 35px;
+padding: 35px;
+line-height: 35px; 
+}
+#attribution {
+margin-top: -150px; 
+position: relative; 
+}
+#description {
+font-size: 20px; 
+line-height: 20px;
+}
+.container {
+width: 100%; 
+}
+</style>
